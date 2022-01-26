@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on an Open Source Flutter Project
-- 📫 How to reach me ...
+- 📫 How to reach me ... You can reach me on Twitter
 
 <!---
 Nianredo/Nianredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
